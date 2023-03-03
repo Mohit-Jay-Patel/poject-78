@@ -1,0 +1,26 @@
+body
+{ text-align: center;
+  background-color: #FFD54F;
+}  
+
+
+h1{
+ font-size: 40px;
+ font-family: Georgia;
+ font-variant: small-caps;
+ color: blue; 
+ word-spacing: 5px; 
+}
+
+button{
+ background-color: red;
+ color: orange; 
+ font-size: 18px
+}
+#family{
+ color: #AD1457;
+ font-variant: small-caps; 
+ font-size: 25px; 
+ font-family: Arial;
+ word-spacing: 5px;
+}
